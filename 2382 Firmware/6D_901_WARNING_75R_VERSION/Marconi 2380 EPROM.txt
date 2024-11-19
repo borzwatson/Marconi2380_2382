@@ -1,0 +1,6 @@
+These EPROMs are from the Marconi 2380 display and the Marconi 2382/1 Spectrum analyzer
+
+Display Software is 006D   1987
+Analyzer Software is 006A  1987
+
+For this information press 2nd Function and Recall buttons 

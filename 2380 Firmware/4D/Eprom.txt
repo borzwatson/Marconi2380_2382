@@ -1,0 +1,14 @@
+
+Marconi 2380 Firmware from board AB3-1 (44829-340) PM1
+
+Firmware Version 191 Issue 4d
+
+Eprom-A.BIN = IC-10 27256
+Eprom-B.BIN = IC-11 27256
+Eprom-C.BIN = IC-12 27256
+Eprom-D.BIN = IC-13 27256
+Eprom-E.BIN = IC-14 27256
+Eprom-F.BIN = IC-33 2764
+
+
+
